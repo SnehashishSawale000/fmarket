@@ -1,4 +1,4 @@
-# fmarket
+# Fmarket - Marketplace to buy luxury fashion products
 API built to extract product data from Farfetch. Farfetch is a luxury fashion e-commerce website.
 
 Full code from Medium post 'Scraping 180K Luxury Fashion Products with PYthon"
